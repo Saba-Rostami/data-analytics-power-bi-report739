@@ -32,3 +32,36 @@ This repository contains a Power BI project for analyzing data from various tabl
 - 🌸 Deleted unused columns.
 
 
+## Data Modeling and Measures:
+
+1. **Create Date Table:**
+   - 🌺 Generated a continuous date table covering the entire time period from the start of the year to the end.
+
+2. **Hierarchies:**
+   - 🌺 Created two hierarchies:
+     - 🌸 Date Hierarchy (Start of Year, Start of Quarter, Start of Month, Start of Week, Date)
+     - 🌸 Geography Hierarchy (World Region, Country, Country Region)
+
+3. **Calculated Columns:**
+   - 🌺 In the Stores table:
+     - 🌸 Country: Creates a full country name based on the Stores[Country Code].
+     - 🌸 Geography: Creates a full geography name based on the Stores[Country Region] and Stores[Country] columns.
+
+4. **Key Measures:**
+   - 🌺 Created key measures for analysis:
+     - 🌸 Total Orders
+     - 🌸 Total Revenue
+     - 🌸 Total Profit
+     - 🌸 Total Customers
+     - 🌸 Total Quantity
+     - 🌸 Profit YTD
+     - 🌸 Revenue YTD
+
+## Data Model:
+
+
+[![Data Model](https://github.com/Saba-Rostami/data-analytics-power-bi-report739/raw/master/Data%20Model.png)](https://github.com/Saba-Rostami/data-analytics-power-bi-report739/blob/master/Data%20Model.png?raw=true)
+
+
+
+
