@@ -63,5 +63,23 @@ This repository contains a Power BI project for analyzing data from various tabl
 [![Data Model](https://github.com/Saba-Rostami/data-analytics-power-bi-report739/raw/master/Data%20Model.png)](https://github.com/Saba-Rostami/data-analytics-power-bi-report739/blob/master/Data%20Model.png?raw=true)
 
 
+## Report Pages
 
+### Executive Summary
+- 🌸 Sidebar navigation using rectangles.
+- 🌸 Card visuals for total revenue, total orders and total profit.
+- 🌸 Line chart for total revenue with drill-down to the month level
+- 🌸  Donut charts for total order and total revenue by country
+- 🌸  Bar chart for total orders by category.
+- 🌸  KPIs for quaterly revenue, customers and profit
+
+
+### Customer Detail
+- 🌸  Sidebar navigation using rectangles.
+- 🌸  Card visuals for total customers, revenue per customer, top customer's full name, revenue and number of orders.
+- 🌸  Donut chart for total number of customers by country.
+- 🌸  Bar chart for total number of customers who purchased each product category.
+- 🌸  Line chart for Total Customers with drill-down to the month level and a trend line with a 95% confidence interval.
+- 🌸  Top 20 customers table with conditional formatting on the revenue column.
+- 🌸  Date slicer for filtering by year.
 
