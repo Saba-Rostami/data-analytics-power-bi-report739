@@ -73,7 +73,8 @@ This repository contains a Power BI project for analyzing data from various tabl
 - 🌸  Bar chart for total orders by category.
 - 🌸  KPIs for quaterly revenue, customers and profit
 
-
+[![Executive Summary](https://raw.githubusercontent.com/Saba-Rostami/data-analytics-power-bi-report739/af7ab4bd5e2af3cd154e7d4882f17ebefc94ddc3/Executive%20Summary%20report.png)
+  
 ### Customer Detail
 - 🌸  Sidebar navigation using rectangles.
 - 🌸  Card visuals for total customers, revenue per customer, top customer's full name, revenue and number of orders.
@@ -82,4 +83,7 @@ This repository contains a Power BI project for analyzing data from various tabl
 - 🌸  Line chart for Total Customers with drill-down to the month level and a trend line with a 95% confidence interval.
 - 🌸  Top 20 customers table with conditional formatting on the revenue column.
 - 🌸  Date slicer for filtering by year.
+
+[![Customer Detail](https://raw.githubusercontent.com/Saba-Rostami/data-analytics-power-bi-report739/af7ab4bd5e2af3cd154e7d4882f17ebefc94ddc3/Customer%20Detail%20report.png)
+
 
