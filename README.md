@@ -96,4 +96,8 @@ This repository contains a Power BI project for analyzing data from various tabl
 - 🌸 Custom icons used for visual appeal.
 - 🌸 Back button included for easy navigation.
 
+[![Customer Detail](https://raw.githubusercontent.com/Saba-Rostami/data-analytics-power-bi-report739/4ca5aa4c9d3ac1d1b79f85984aa3af532dc13325/Product%20Details%201.png)
+
+[![Customer Detail](https://raw.githubusercontent.com/Saba-Rostami/data-analytics-power-bi-report739/4ca5aa4c9d3ac1d1b79f85984aa3af532dc13325/Product%20Details%202.png)
+
 
