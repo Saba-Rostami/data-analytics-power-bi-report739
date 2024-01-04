@@ -86,4 +86,14 @@ This repository contains a Power BI project for analyzing data from various tabl
 
 [![Customer Detail](https://raw.githubusercontent.com/Saba-Rostami/data-analytics-power-bi-report739/af7ab4bd5e2af3cd154e7d4882f17ebefc94ddc3/Customer%20Detail%20report.png)
 
+### Product Detail
+- 🌸 Sidebar navigation using rectangles.
+- 🌸 Three gauges added for Orders, Revenue, and Profit.
+- 🌸 Area chart added to show product categories' revenue performance over time.
+- 🌸 Table showcasing top-selling products with key metrics.
+- 🌸 Scatter chart added to identify top-selling and profitable product ranges.
+- 🌸 Pop-out slicer toolbar created using bookmarks.
+- 🌸 Custom icons used for visual appeal.
+- 🌸 Back button included for easy navigation.
+
 
