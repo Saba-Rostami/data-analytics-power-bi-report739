@@ -96,22 +96,33 @@ This repository contains a Power BI project for analyzing data from various tabl
 - 🌸 Custom icons used for visual appeal.
 - 🌸 Back button included for easy navigation.
 
-[![Customer Detail](https://raw.githubusercontent.com/Saba-Rostami/data-analytics-power-bi-report739/4ca5aa4c9d3ac1d1b79f85984aa3af532dc13325/Product%20Details%201.png)
+[![Product Detail](https://raw.githubusercontent.com/Saba-Rostami/data-analytics-power-bi-report739/4ca5aa4c9d3ac1d1b79f85984aa3af532dc13325/Product%20Details%201.png)
 
-[![Customer Detail](https://raw.githubusercontent.com/Saba-Rostami/data-analytics-power-bi-report739/4ca5aa4c9d3ac1d1b79f85984aa3af532dc13325/Product%20Details%202.png)
+[![Product Detail](https://raw.githubusercontent.com/Saba-Rostami/data-analytics-power-bi-report739/4ca5aa4c9d3ac1d1b79f85984aa3af532dc13325/Product%20Details%202.png)
 
 ### Store Map
 - 🌸 Added a new map visual to show the stores' locations.
 - 🌸 A slicer for selecting the store's country.
-- 🌸 Stores Drillthrough page:
-  - A table showing the top 5 products.
-  - A column chart showing Total Orders by product category for the store
-  - Gauge for Profit YTD against a profit target of 20% year-on-year growth vs. the same period in the previous year.
-  - Gauge for Revenue YTD against a revenue target of 20% year-on-year growth vs. the same period in the previous year.
-  - A Card visual showing the currently selected store
 
-- 🌸 a new page named "Custom Tooltip":
-  - profit gauge visual for users to be able to see each store's year-to-date profit performance against the profit target just by hovering the mouse over a store on the map.
+[![Stores Drillthrough](https://raw.githubusercontent.com/Saba-Rostami/data-analytics-power-bi-report739/8072488fc2d64986b96786b2357545f309fcd7d1/Store%20Map.png)
 
+
+### Stores Drillthrough:
+  
+  - 🌸 A table showing the top 5 products.
+  - 🌸 A column chart showing Total Orders by product category for the store
+  - 🌸 Gauge for Profit YTD against a profit target of 20% year-on-year growth vs. the same period in the previous year.
+  - 🌸 Gauge for Revenue YTD against a revenue target of 20% year-on-year growth vs. the same period in the previous year.
+  - 🌸 A Card visual showing the currently selected store
+ 
+[![Stores Drillthrough](https://raw.githubusercontent.com/Saba-Rostami/data-analytics-power-bi-report739/8072488fc2d64986b96786b2357545f309fcd7d1/Store%20Drillthrough.png)
+
+
+
+### Custom Tooltip:
+  
+  - 🌸 Profit gauge visual for users to be able to see each store's year-to-date profit performance against the profit target just by hovering the mouse over a store on the map.
+ 
+[![Custom Tooltip](https://raw.githubusercontent.com/Saba-Rostami/data-analytics-power-bi-report739/8072488fc2d64986b96786b2357545f309fcd7d1/Tooltip.png)
 
 
