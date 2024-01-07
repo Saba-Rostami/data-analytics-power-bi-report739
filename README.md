@@ -125,4 +125,29 @@ This repository contains a Power BI project for analyzing data from various tabl
  
 [![Custom Tooltip](https://raw.githubusercontent.com/Saba-Rostami/data-analytics-power-bi-report739/8072488fc2d64986b96786b2357545f309fcd7d1/Tooltip.png)
 
+## SQL Metrics for Users Outside the Company
+
+### Queries and Exported Results
+
+1. **How many staff are there in all of the UK stores?**
+   - 🌸 Query: [question_1.sql](https://github.com/Saba-Rostami/data-analytics-power-bi-report739/blob/master/Question_1.sql)
+   - 🌸 Result: [question_1.csv](https://github.com/Saba-Rostami/data-analytics-power-bi-report739/blob/master/Question_1.csv)
+
+2. **Which month in 2022 has had the highest revenue?**
+   - 🌸 Query: [question_2.sql](https://github.com/Saba-Rostami/data-analytics-power-bi-report739/blob/master/Question_2.sql)
+   - 🌸 Result: [question_2.csv](https://github.com/Saba-Rostami/data-analytics-power-bi-report739/blob/master/Question_2.csv)
+   
+3. **Which German store type had the highest revenue for 2022?**
+   - 🌸 Query: [question_3.sql](https://github.com/Saba-Rostami/data-analytics-power-bi-report739/blob/master/Question_3.sql)
+   - 🌸 Result: [question_3.csv](https://github.com/Saba-Rostami/data-analytics-power-bi-report739/blob/master/Question_3.csv)
+
+4. **Create a view where the rows are the store types and the columns are the total sales, percentage of total sales, and the count of orders**
+   - 🌸 Query: [question_4.sql](https://github.com/Saba-Rostami/data-analytics-power-bi-report739/blob/master/Question_4.sql)
+   - 🌸 Result: [question_4.csv](https://github.com/Saba-Rostami/data-analytics-power-bi-report739/blob/master/Question_4.csv)
+
+5. **Which product category generated the most profit for the "Wiltshire, UK" region in 2021?**
+   - 🌸 Query: [question_5.sql](https://github.com/Saba-Rostami/data-analytics-power-bi-report739/blob/master/Question_5.sql)
+   - 🌸 Result: [question_5.csv](https://github.com/Saba-Rostami/data-analytics-power-bi-report739/blob/master/Question_5.csv)
+
+
 
